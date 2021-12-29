@@ -13,7 +13,7 @@ namespace CBP_RoB_Plugin
     {
         public string PluginTitle => "Rise of Babel Installer (no audio files)";
 
-        public string PluginVersion => "0.1.1";
+        public string PluginVersion => "0.1.2";
 
         public string PluginAuthor => "MHLoppy";
 

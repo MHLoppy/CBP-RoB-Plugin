@@ -9,7 +9,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CBP_RoB_Plugin"
         mc:Ignorable="d"
-        Title="RoBInstallerWindow" Height="260" Width="380"
+        Title="Rise of Babel Installer" Height="260" Width="380"
         WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
