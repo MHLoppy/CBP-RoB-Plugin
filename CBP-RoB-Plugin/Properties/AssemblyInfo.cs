@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("CBP-RoB-Plugin")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("MHLoppy")]
 [assembly: AssemblyProduct("CBP-RoB-Plugin")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright © Mark Heath 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
