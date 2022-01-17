@@ -13,9 +13,6 @@ using System.Xml;
 
 namespace CBP_RoB_Plugin
 {
-    /// <summary>
-    /// Interaction logic for RoBInstallerWindow.xaml
-    /// </summary>
     public partial class RoBInstallerWindow : Window
     {
         private readonly string SoundXML = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data", "sound.xml");
@@ -36,6 +33,7 @@ namespace CBP_RoB_Plugin
         // 2) create 201-999 with a silence file, no id, volume 255, and <string> content from pre-compiled RoB list
 
         // could actually support multiple languages without --too-- much effort I think - I already have all the translations on hand
+        // update: turns out most of the "translations" provided with RoB don't actually include translations lol
 
         private void CleanFile()
         {
