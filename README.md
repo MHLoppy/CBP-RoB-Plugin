@@ -5,3 +5,5 @@ A simple GUI plugin for [CBP Launcher](https://github.com/MHLoppy/CBP-Launcher) 
 Note that the plugin has the following limitations:
 - Only supports English
 - Only adds taunt text (the copyrighted audio files are not bundled)
+
+This plugin's functionality has been integrated into the larger [Sound.xml Editor plugin](https://github.com/MHLoppy/CBP-SE-Plugin).
