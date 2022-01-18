@@ -22,7 +22,7 @@ namespace CBP_RoB_Plugin
         public bool DefaultMultiplayerCompatible => true;
 
         public string PluginDescription => "An installer for the Rise of Babel taunt pack. The current version installs ONLY the taunt text (in English), not the copyrighted taunt audio."
-                                            + "\n\nSource code: < L I N K   H E R E >";
+                                            + "\n\nSource code: https://github.com/MHLoppy/CBP-RoB-Plugin";
 
         public bool IsSimpleMod => false;
 
